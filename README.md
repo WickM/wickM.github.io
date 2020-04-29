@@ -1,51 +1,72 @@
-## Developer Portfolio Landing Page Template
+# [Start Bootstrap - Creative](https://startbootstrap.com/themes/creative/)
 
-### Introduction
+[Creative](http://startbootstrap.com/themes/creative/) is a one page, creative website theme built with [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+## Preview
 
-<img src="images/demo.gif?raw=true"/>
+[![Creative Preview](https://startbootstrap.com/assets/img/screenshots/themes/creative.png)](https://blackrockdigital.github.io/startbootstrap-creative/)
 
-### Installation
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+## Status
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-creative/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-creative.svg)](https://www.npmjs.com/package/startbootstrap-creative)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-creative.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-creative)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-creative/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-creative)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-creative/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-creative?type=dev)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Download and Installation
 
-### Markdown
+To begin using this template, choose one of the following options to get started:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Download the latest release on Start Bootstrap](https://startbootstrap.com/themes/creative/)
+- Install using npm: `npm i startbootstrap-creative`
+- Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
+- [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-creative)
 
-```markdown
-Syntax highlighted code block
+## Usage
 
-# Header 1
-## Header 2
-### Header 3
+### Basic Usage
 
-- Bulleted
-- List
+After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-1. Numbered
-2. List
+### Advanced Usage
 
-**Bold** and _Italic_ and `Code` text
+Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
 
-[Link](url) and ![Image](src)
-```
+#### npm Scripts
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
+- `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
+- `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
+- `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
+- `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
+- `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
+- `npm run start:debug` runs the project in debug mode
+- `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
-### Roadmap
+You must have npm installed in order to use this build environment.
 
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
+## Bugs and Issues
 
-### References
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](http://startbootstrap.com/themes/creative/).
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+## About
+
+Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+- <https://startbootstrap.com>
+- <https://twitter.com/SBootstrap>
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+- <http://davidmiller.io>
+- <https://twitter.com/davidmillerskt>
+- <https://github.com/davidtmiller>
+
+Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2020 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
